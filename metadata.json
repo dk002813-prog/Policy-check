@@ -1,0 +1,7 @@
+{
+  "name": "정책 탐색기",
+  "description": "온통청년 청년정책 오픈API 기반 맞춤형 청년정책 자격 판정기 및 탐색 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
